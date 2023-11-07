@@ -1,4 +1,5 @@
-'''Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.'''
+'''Faça um programa que pergunte o preço de três produtos e informe qual produto você deve comprar,
+sabendo que a decisão é sempre pelo mais barato.'''
 
 p1 = float(input('Qual o preço desse produto? R$'))
 p2 = float(input('Qual o preço desse produto? R$'))
